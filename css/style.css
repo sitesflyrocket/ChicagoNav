@@ -17,6 +17,7 @@
 .topbar a {
   color: white;
   margin: 10px;
+  text-decoration: none;
 }
 
 .nav-items a:last-child {
@@ -37,6 +38,9 @@
 .nav-items a {
   color: white;
   text-decoration: none;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 .nav-overlay {

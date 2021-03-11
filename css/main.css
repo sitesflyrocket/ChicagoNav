@@ -1,0 +1,12 @@
+body, html {
+    font-family: 'Cabin', sans-serif;
+}
+.camuflage {
+    display: inline;
+    margin: 10px!important;
+}
+@media (max-width:768px) {
+    .camuflage {
+        display: none;
+    }
+}
