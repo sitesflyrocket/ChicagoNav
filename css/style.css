@@ -81,6 +81,22 @@
   background-color: #005a75;
 }
 
+.fa-bars {
+  font-size: 20px!important;
+}
+
+.fa-heart:hover {
+  font-weight: bolder;
+}
+
+.fa-shopping-cart:hover {
+  color: #ffffff8c;
+}
+
+.camuflage:hover {
+  color: #ffffff8c;
+}
+
 @media screen and (max-width: 768px) {
   .nav-items {
     float: right;
@@ -119,13 +135,9 @@
   background-color: #0099c4;
 }
 
-
-
 .logo {
   max-width: 130px;
 }
-
-
 
 nav {
   display: grid;
