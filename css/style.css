@@ -42,7 +42,9 @@
   font-weight: 400;
   text-transform: uppercase;
 }
-
+.nav-items a:hover {
+  color: rgba(255, 255, 255, 0.671);
+}
 .nav-overlay {
   height: 100vh;
   width: 0;
