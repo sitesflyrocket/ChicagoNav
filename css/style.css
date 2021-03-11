@@ -75,7 +75,7 @@
   background-color: #005a75;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 768px) {
   .nav-items {
     float: right;
   }
